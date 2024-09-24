@@ -20,7 +20,7 @@ const Home = () => {
     getProducts();
   }, []);
 
-  console.table(products);
+  console.log(products);
 
   return (
     <div>
