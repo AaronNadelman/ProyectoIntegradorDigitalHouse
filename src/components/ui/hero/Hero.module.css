@@ -1,8 +1,9 @@
 .heroContainer {
   background-image: url("../../../assets/hero.png");
   background-position: 50%;
-  background-size: screen;
+  background-size: 100%;
   align-items: center;
+  width: 100vw;
 }
 
 .heroTitleContainer {

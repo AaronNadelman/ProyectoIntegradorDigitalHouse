@@ -1,4 +1,5 @@
 /* eslint-disable react/react-in-jsx-scope */
+
 import styles from "../hero/Hero.module.css";
 
 export default function Hero() {
